@@ -1,0 +1,28 @@
+<style type="text/css">
+.B {
+	font-weight: normal;
+}
+</style>
+<table cellpadding="1" cellspacing="1" border="0" class="table_border" style="padding: 5px 0 5px 0; font-weight: bold;">
+		<tr>
+			<td rowspan="3" width="50" align="center" class="table_top_rank" style="padding: 5px 0 5px 0; color: #F00";>{$rank}<br /><br />
+              <img src="{$skins_url}/{$skin_name}/{$up_down}.gif" alt="{$lng-&gt;up_down}" /></td>
+                 
+		  <td rowspan="3" width="484" valign="top"><p><a href="{$url}" onclick="out('{$username}');"><img src="{$banner_url}" alt="{$title}" width="468" height="60" style="width:468px;height:60px;float:center;border:0px;" /></a></p>
+		     <strong>{$title}</strong><br />
+		       <span class="B">{$description}</span></td>
+		  <td colspan="2" align="center"><b><a href="{$list_url}/index.php?a=stats&amp;u={$username}"><img src="images/Estadisticas.png" border="0"  /></a></b></td>
+		</tr>
+		<tr>
+			<td width="75" valign="top"><div align="center">IN</div><p>		  
+			<div align="center"><font color="#0F0" face="Arial" size="3"><b>{$unq_in_0_monthly}</b></font></div></td>
+			<td width="75" valign="top"><div align="center">OUT<br /><p>
+			</div>			  
+			<div align="center"><font color="#F00" face="Arial" size="3"><b>{$unq_out_0_monthly}</b></font></div></td>
+
+		</tr>
+		<tr>
+			<td colspan="2" align="center" valign="top"><a href="{$list_url}/index.php?a=rate&amp;u={$username}"><img src="images/votar1.png" border="0"  /></a></td>
+		</tr>
+</table>
+<br />

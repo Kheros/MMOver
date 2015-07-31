@@ -1,0 +1,73 @@
+<SCRIPT LANGUAGE="JavaScript">
+
+
+<!-- Begin
+
+image1 = new Image();
+image1.src = "images/boton2.png";
+
+// End -->
+</script><br />
+
+<style type="text/css">
+.panou-right .border-panou-right h3 {
+	color: #FFF;
+}
+.panou-right .border-panou-right p b {
+	color: #F00;
+}
+.panou-right .border-panou-right p {
+	color: #FFF;
+}
+.panou-right .border-panou-right b {
+	color: #F00;
+}
+.panou-right .border-panou-right {
+	color: #0F0;
+}
+.panou-right .border-panou-right a {
+	color: #FFF;
+}
+.b1 {
+	font-weight: bold;
+}
+.b2 {
+	color: #FFF;
+}
+</style>
+<div class="panou-right">
+ <div class="top-panou-right">
+  <div class="poz-panou-right"> <h2>{$title}</h2></div>
+ </div>
+ <div class="border-panou-right">
+ <div align="center"><br />
+   <a href="{$url}" onclick="out('{$username}');"><img src="{$banner_url}" alt="{$title}" width="468" height="60" style="width:468px;height:60px;float:center;border:0px;" /></a><br /><br />
+   
+ </div>
+ <h3 align="center">Informacion del Servidor</h3>
+ <p><br />
+   <b>{$lng->g_description}:</b> {$description}<br />
+  <br />
+   <b>{$lng->g_url}:</b> <a href="{$url}" onclick="out('{$username}');">{$url}</a><br />
+   <br />
+   <b>{$lng->g_category}:</b> <a href="{$list_url}/index.php?cat={$category_url}">{$category}</a> 
+ <p><b>{$lng->stats_member_since}:</b> {$join_date}<br /><br />
+   <h3 align="center">Valoracion del Servidor</h3>
+   <div align="center"><br />
+  <br />
+     <b>{$lng->stats_rating_avg}:</b> <img src="{$skins_url}/{$skin_name}/stars{$average_rating}.gif" border="0" alt="{$average_rating}/5" /></a><br />
+     <b>{$lng->stats_rating_num}:</b> <span class="b1">{$num_ratings}</span><br />
+     <br />
+     <br />
+   </div>
+   <div align="center"><br />
+  <a href="{$list_url}/index.php?a=rate&amp;u={$username}" onmouseover="image1.src='images/boton2.png';"
+onmouseout="image1.src='images/Boton1.png';">
+<img name="image1" src="images/Boton1.png" border=0></a>
+<br />
+  
+  <br />
+ </div>
+   <br />
+ </div></div>
+<br />

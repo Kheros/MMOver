@@ -1,0 +1,121 @@
+﻿<?xml version="1.0"?>
+<!DOCTYPE modification SYSTEM "http://www.simplemachines.org/xml/modification">
+<modification xmlns="http://www.simplemachines.org/xml/modification" xmlns:smf="http://www.simplemachines.org/">
+	<id>hadesflames:Sistema de Claves</id>
+	<version>1.0.4</version>
+
+	<file name="$languagedir/Admin.english.php">
+		<operation>
+			<search position="end" />
+			<add><![CDATA[
+//Invitation System Mod
+$txt['invite_system'] = 'Sistema de Claves';
+$txt['invite_system_mod_settings'] = 'Configuraciónes';
+$txt['invite_system_mod_settings_desc'] = 'Modificar configuraciones de claves.';
+$txt['invite_system_mod_settings_group'] = 'Modificar Grupos de Usuarios';
+$txt['invite_system_mod_settings_group_desc'] = 'Modificar Usuarios Individuales.';
+$txt['invite_system_mod_manage'] = 'Claves';
+$txt['invite_system_mod_manage_desc'] = 'Modificar todas las claves.';
+$txt['invite_system_mod_generate'] = 'Generar Clave';
+$txt['invite_system_mod_generate_desc'] = 'Generar nueva clave.';
+$txt['invite_system_mod_email'] = 'Email';
+$txt['invite_system_mod_email_desc'] = 'Modificar configuraciones de email.';
+]]></add>
+		</operation>
+	</file>
+	
+	<file name="$languagedir/Errors.english.php">
+		<operation>
+			<search position="end" />
+			<add><![CDATA[
+// Invite System Mod.
+$txt['invite_blank'] = 'Necesitas una clave de invitacion. Habla con un amigo que seguramente tenga una.';
+$txt['invite_wrong'] = 'La clave usada no es válida.';
+]]></add>
+		</operation>
+	</file>
+	
+	<file name="$languagedir/index.english.php">
+		<operation>
+			<search position="end" />
+			<add><![CDATA[
+//Invitation System Mod
+$txt['invite'] = 'Claves';
+$txt['invite_key'] = 'Clave:';
+$txt['invite_manage'] = 'Ver Claves';
+$txt['invite_generate'] = 'Generar Clave';
+$txt['invite_email_send'] = 'Enviar la Clave por Email';
+]]></add>
+		</operation>
+	</file>
+	
+	<file name="$languagedir/ManageScheduledTasks.english.php">
+		<operation>
+			<search position="end" />
+			<add><![CDATA[
+//Invitation System Mod
+$txt['scheduled_task_invitePrune'] = 'Borrar las claves no usadas.';
+$txt['scheduled_task_desc_invitePrune'] = 'Borrar las claves no usadas en 7 dias.';
+$txt['scheduled_task_keyExpire'] = 'Expira en:';
+$txt['scheduled_task_desc_keyExpire'] = 'Tiempo que tarda en expirar la clave.';
+$txt['scheduled_task_keyRenew'] = 'Tiempo para generar una nueva clave:';
+$txt['scheduled_task_desc_keyRenew'] = 'Tiempo que falta para poder volver a generar una clave.';
+]]></add>
+		</operation>
+	</file>
+	
+	<file name="$languagedir/Modifications.english.php">
+		<operation>
+			<search position="end" />
+			<add><![CDATA[
+// Invite System Mod.
+$txt['invite_settings_title'] = 'Sistema de claves';
+$txt['invite_enabled'] = 'Activar';
+$txt['invite_email'] = 'Activar invitaciones vía email';
+$txt['invite_email_member'] = 'Enviar Clave';
+$txt['roll_over'] = '¿Permitir renovar claves en el próximo mes?';
+$txt['key_renew'] = 'Cantidad de días para generar una nueva clave (0 = nunca)';
+$txt['key_expire'] = 'Tiempo en el que caduca la clave (0 = nunca)';
+$txt['invite_groups'] = 'Número de claves por grupo:<br />-1 = sin limite.';
+$txt['invite_reg_page'] = 'Clave:';
+$txt['invite_error'] = 'Error';
+$txt['invite_email_subject'] = 'Asunto';
+$txt['invite_email_message'] = 'Mensaje<br />
+Variable legend:<br />
+{invitee} = Nombre de amigo<br />
+{inviter} = Tu nombre<br />
+{forum} = Foro nombre<br />
+{message} = user\'s mensaje a enviar**<br />
+{link} = Link a la página de registro**<br />
+{key} = clave**<br />
+**can\'t be used in subject';
+$txt['invite_email_title'] = 'Clave de Registro';
+$txt['invite_email_invalid'] = 'El email indicado no es válido.';
+$txt['invite_email_empty'] = 'No puede habe nada en blanco, prueba de nuevo.';
+$txt['invite_email_sent'] = '¡Tu clave se ha enviado correctamente!';
+$txt['invite_email_not_sent'] = 'Hay un problema mandando la clave, por favor, contacta con un administrador.';
+$txt['invite_email_recipient_name'] = 'Nombre de Amigo';
+$txt['invite_email_recipient'] = 'Email de Amigo';
+$txt['invite_email_recipient_message'] = 'Mensaje a enviar';
+$txt['invite_new_key_head'] = 'Nueva Clave';
+$txt['invite_new_key'] = 'Tu nueva clave es:<br /><br />';
+$txt['invite_no_key'] = '¡Ups!, ya no hay más claves disponibles.<br />Recuerda que las claves se generan cada 2 meses.';
+$txt['invite_system_no_keys'] = 'No hay claves disponibles.';
+$txt['invite_system_key_id'] = 'ID de la Clave';
+$txt['invite_system_member_name'] = 'Nombre del Miembro';
+$txt['invite_system_key'] = 'Clave';
+$txt['invite_system_status'] = 'Estado';
+$txt['invite_system_remove'] = 'Borrar';
+$txt['invite_system_remove_all'] = 'Borrar todos';
+$txt['invite_system_change'] = 'Cambiar estado';
+$txt['invite_system_remove_confirm'] = '¡Usted está a punto de quitar las claves seleccionadas!';
+$txt['invite_system_remove_all_confirm'] = '¡Usted está a punto de quitar todas las claves!';
+$txt['invite_system_change_confirm'] = 'Usted está a punto de cambiar las claves!';
+$txt['active'] = 'Activa';
+$txt['nactive'] = 'No Activa';
+$txt['save'] = 'Guardar';
+$txt['send'] = 'Enviar';
+]]></add>
+		</operation>
+	</file>
+</modification>

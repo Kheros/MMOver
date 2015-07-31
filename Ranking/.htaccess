@@ -1,0 +1,8 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^last.mmover.es$ [OR]
+RewriteCond %{HTTP_HOST} ^www.last.mmover.es$
+RewriteRule ^/?$ "http\:\/\/mmover\.es\/votaciones" [R=301,L]
+
+AuthName "votaciones"
+AuthUserFile "/home/mmoveres/.htpasswds/public_html/votaciones/passwd"

@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<!DOCTYPE package-info SYSTEM "http://www.simplemachines.org/xml/package-info">
+<package-info xmlns="http://www.simplemachines.org/xml/package-info" xmlns:smf="http://www.simplemachines.org/">
+	<id>hadesflames:InvitationSystem</id>
+	<name>Invitation System</name>
+	<version>1.0.4</version>
+	<type>modification</type>
+	
+	<install for="2.0 RC4 - 2.0 RC5">
+		<modification format="xml" type="file">install.xml</modification>
+		<modification format="xml" type="file">languages.xml</modification>
+		<require-file name="Invite.php" destination="$sourcedir" />
+		<require-file name="Invite.template.php" destination="$themedir" />
+		<require-file name="invite.gif" destination="$imagesdir/admin" />
+		<database>install.php</database>
+		<redirect url="?action=admin;area=invite" />
+	</install>
+	
+	<uninstall for="2.0 RC4 - 2.0 RC5">
+		<modification format="xml" type="file" reverse="true">install.xml</modification>
+		<modification format="xml" type="file" reverse="true">languages.xml</modification>
+		<remove-file name="$sourcedir/Invite.php" />
+		<remove-file name="$themedir/Invite.template.php" />
+		<remove-file name="$imagesdir/admin/invite.gif" />
+		<code>uninstall.php</code>
+	</uninstall>
+</package-info>

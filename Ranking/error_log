@@ -1,0 +1,823 @@
+[24-Nov-2010 09:32:14] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/wowtop/sources/sql/mysql.php on line 32
+[24-Nov-2010 09:32:14] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/wowtop/sources/sql/mysql.php on line 33
+[24-Nov-2010 09:32:14] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/wowtop/sources/sql/mysql.php on line 47
+[24-Nov-2010 09:32:14] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/wowtop/sources/sql/mysql.php on line 47
+[24-Nov-2010 09:32:14] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/wowtop/index.php</b>&quot; on line <b>44</b><br /><br />
+ in /home/mmoveres/public_html/wowtop/sources/sql/mysql.php on line 88
+[29-Nov-2010 17:44:08] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[29-Nov-2010 17:44:08] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[29-Nov-2010 17:44:08] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[29-Nov-2010 17:44:08] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[29-Nov-2010 17:44:08] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/index.php</b>&quot; on line <b>44</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[29-Nov-2010 17:44:12] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[29-Nov-2010 17:44:12] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[29-Nov-2010 17:44:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[29-Nov-2010 17:44:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[29-Nov-2010 17:44:12] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/index.php</b>&quot; on line <b>44</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[01-Dec-2010 15:45:14] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 15:45:14] PHP Warning:  file_get_contents(http://mmover.es/votaciones/ssi.php?a=new&amp;amp;num=5) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 15:45:15] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 15:45:15] PHP Warning:  file_get_contents(http://mmover.es/votaciones/ssi.php?a=new&amp;amp;num=5) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 15:45:34] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 15:45:34] PHP Warning:  file_get_contents(http://mmover.es/votaciones/ssi.php?a=new&amp;amp;num=5) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 15:45:38] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 15:45:38] PHP Warning:  file_get_contents(http://mmover.es/votaciones/ssi.php?a=new&amp;amp;num=5) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 15:45:49] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 15:45:49] PHP Warning:  file_get_contents(http://mmover.es/votaciones/ssi.php?a=new&amp;amp;num=5) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 15:46:00] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 15:46:00] PHP Warning:  file_get_contents(http://mmover.es/votaciones/ssi.php?a=new&amp;amp;num=5) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 15:54:08] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 15:54:08] PHP Warning:  file_get_contents(http://mmover.es/votaciones/ssi.php?a=new&amp;amp;num=5) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 15:54:14] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 15:54:14] PHP Warning:  file_get_contents(http://mmover.es/votaciones/ssi.php?a=new&amp;amp;num=5) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 15:54:25] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 15:54:25] PHP Warning:  file_get_contents(http://mmover.es/votaciones/ssi.php?a=new&amp;amp;num=5) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 15:54:30] PHP Warning:  fopen(./skins/dyno/table_top_open.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[01-Dec-2010 15:54:30] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[01-Dec-2010 15:54:30] PHP Warning:  fopen(./skins/dyno/table_top_row.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[01-Dec-2010 15:54:30] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[01-Dec-2010 15:54:30] PHP Warning:  fopen(./skins/dyno/table_top_close.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[01-Dec-2010 15:54:30] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[01-Dec-2010 15:54:30] PHP Warning:  fopen(./skins/dyno/table_wrapper.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[01-Dec-2010 15:54:30] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[01-Dec-2010 15:54:30] PHP Warning:  fopen(./skins/dyno/wrapper.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[01-Dec-2010 15:54:30] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[01-Dec-2010 15:54:41] PHP Warning:  fopen(./skins/dyno/wrapper.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[01-Dec-2010 15:54:41] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[01-Dec-2010 15:55:04] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 15:55:04] PHP Warning:  file_get_contents(http://mmover.es/votaciones/ssi.php?a=new&amp;amp;num=5) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 16:34:22] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 16:34:22] PHP Warning:  file_get_contents(http://mmover.es/votaciones/skins/romskin/content2.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 16:34:22] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 16:34:22] PHP Warning:  file_get_contents(http://mmover.es/votaciones/skins/romskin/content.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 16:34:32] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 16:34:32] PHP Warning:  file_get_contents(http://mmover.es/votaciones/skins/romskin/content2.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 16:34:32] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 16:34:32] PHP Warning:  file_get_contents(http://mmover.es/votaciones/skins/romskin/content.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 16:34:43] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 16:34:43] PHP Warning:  file_get_contents(http://mmover.es/votaciones/skins/romskin/content2.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 16:34:43] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 16:34:43] PHP Warning:  file_get_contents(http://mmover.es/votaciones/skins/romskin/content.php) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 16:35:13] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 16:35:13] PHP Warning:  file_get_contents(http://mmover.es/votaciones/ssi.php?a=new&amp;amp;num=5) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 16:35:35] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[01-Dec-2010 16:35:35] PHP Warning:  file_get_contents(http://mmover.es/votaciones/ssi.php?a=new&amp;amp;num=5) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[06-Dec-2010 10:42:22] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/sources/admin/skins.php</b>&quot; on line <b>173</b><br /><br />
+Duplicate entry '' for key 1 in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[06-Dec-2010 12:13:53] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[06-Dec-2010 12:13:53] PHP Warning:  file_get_contents(http://mmover.es/votaciones/ssi.php?a=new&amp;amp;num=5) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[06-Dec-2010 12:13:54] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[06-Dec-2010 12:13:54] PHP Warning:  file_get_contents(http://mmover.es/votaciones/ssi.php?a=new&amp;amp;num=5) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[06-Dec-2010 12:14:11] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: URL file-access is disabled in the server configuration in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[06-Dec-2010 12:14:11] PHP Warning:  file_get_contents(http://mmover.es/votaciones/ssi.php?a=new&amp;amp;num=5) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: no suitable wrapper could be found in /home/mmoveres/public_html/votaciones/sources/misc/skin.php(91) : runtime-created function on line 1
+[06-Dec-2010 12:14:48] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/sources/admin/skins.php</b>&quot; on line <b>173</b><br /><br />
+Duplicate entry '' for key 1 in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[06-Dec-2010 12:14:54] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/sources/admin/skins.php</b>&quot; on line <b>173</b><br /><br />
+Duplicate entry '' for key 1 in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[28-Dec-2010 16:57:07] PHP Warning:  fopen(./skins/fusion/table_top_open.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:07] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:07] PHP Warning:  fopen(./skins/fusion/table_top_row.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:07] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:07] PHP Warning:  fopen(./skins/fusion/table_top_row.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:07] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:07] PHP Warning:  fopen(./skins/fusion/table_top_close.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:07] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:07] PHP Warning:  fopen(./skins/fusion/table_open.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:07] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:07] PHP Warning:  fopen(./skins/fusion/table_row.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:07] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:07] PHP Warning:  fopen(./skins/fusion/table_close.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:07] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:07] PHP Warning:  fopen(./skins/fusion/table_wrapper.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:07] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:07] PHP Warning:  fopen(./skins/fusion/wrapper.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:07] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:13] PHP Warning:  fopen(./skins/fusion/table_top_open.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:13] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:13] PHP Warning:  fopen(./skins/fusion/table_top_row.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:13] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:13] PHP Warning:  fopen(./skins/fusion/table_top_row.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:13] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:13] PHP Warning:  fopen(./skins/fusion/table_top_close.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:13] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:13] PHP Warning:  fopen(./skins/fusion/table_open.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:13] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:13] PHP Warning:  fopen(./skins/fusion/table_row.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:13] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:13] PHP Warning:  fopen(./skins/fusion/table_close.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:13] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:13] PHP Warning:  fopen(./skins/fusion/table_wrapper.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:13] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:13] PHP Warning:  fopen(./skins/fusion/wrapper.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:13] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:15] PHP Warning:  fopen(./skins/fusion/table_top_open.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:15] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:15] PHP Warning:  fopen(./skins/fusion/table_top_row.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:15] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:15] PHP Warning:  fopen(./skins/fusion/table_top_row.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:15] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:15] PHP Warning:  fopen(./skins/fusion/table_top_close.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:15] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:15] PHP Warning:  fopen(./skins/fusion/table_open.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:15] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:15] PHP Warning:  fopen(./skins/fusion/table_row.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:15] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:15] PHP Warning:  fopen(./skins/fusion/table_close.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:15] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:15] PHP Warning:  fopen(./skins/fusion/table_wrapper.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:15] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[28-Dec-2010 16:57:15] PHP Warning:  fopen(./skins/fusion/wrapper.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[28-Dec-2010 16:57:15] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[30-Dec-2010 07:55:39] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[30-Dec-2010 07:55:39] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[30-Dec-2010 07:55:39] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[30-Dec-2010 07:55:39] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[30-Dec-2010 07:55:39] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:23:30] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+No database selected in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:23:33] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+No database selected in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:23:48] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+No database selected in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:24:14] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+No database selected in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:24:15] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+No database selected in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:25:03] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+No database selected in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:25:09] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+No database selected in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:25:11] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+No database selected in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:25:14] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+No database selected in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:25:14] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+No database selected in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:25:15] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+No database selected in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:25:17] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/index.php</b>&quot; on line <b>44</b><br /><br />
+No database selected in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:25:37] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+No database selected in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:26:46] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/index.php</b>&quot; on line <b>44</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:26:47] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:26:49] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:26:49] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:26:50] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:26:54] PHP Warning:  array_merge() [<a href='function.array-merge'>function.array-merge</a>]: Argument #2 is not an array in /home/mmoveres/public_html/votaciones/button.php on line 37
+[30-Dec-2010 17:26:55] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>48</b><br /><br />
+Table 'mmoveres_top._sites' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:27:01] PHP Warning:  fopen(./skins/fusion/error.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[30-Dec-2010 17:27:01] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[30-Dec-2010 17:27:01] PHP Warning:  fopen(./skins/fusion/wrapper.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[30-Dec-2010 17:27:01] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[30-Dec-2010 17:29:48] PHP Warning:  fopen(./skins/fusion/error.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[30-Dec-2010 17:29:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[30-Dec-2010 17:29:48] PHP Warning:  fopen(./skins/fusion/wrapper.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[30-Dec-2010 17:29:48] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[30-Dec-2010 17:29:52] PHP Warning:  fopen(./skins/fusion/error.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[30-Dec-2010 17:29:52] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[30-Dec-2010 17:29:52] PHP Warning:  fopen(./skins/fusion/wrapper.html) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 34
+[30-Dec-2010 17:29:52] PHP Warning:  fclose(): supplied argument is not a valid stream resource in /home/mmoveres/public_html/votaciones/sources/misc/skin.php on line 36
+[30-Dec-2010 17:32:04] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:32:41] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:32:44] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:33:20] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:33:37] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:33:45] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:33:51] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:33:54] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:33:59] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:34:02] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:34:04] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:34:09] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:34:09] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:34:23] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:34:53] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:35:01] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:35:01] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:35:06] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+Table 'mmoveres_top.wow_settings' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:35:17] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>48</b><br /><br />
+Table 'mmoveres_top.wow_sites' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:35:18] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>48</b><br /><br />
+Table 'mmoveres_top.wow_sites' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 17:35:18] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>48</b><br /><br />
+Table 'mmoveres_top.wow_sites' doesn't exist in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 22:41:15] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[30-Dec-2010 22:41:15] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[30-Dec-2010 22:41:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[30-Dec-2010 22:41:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[30-Dec-2010 22:41:15] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[30-Dec-2010 22:41:28] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[30-Dec-2010 22:41:28] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[30-Dec-2010 22:41:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[30-Dec-2010 22:41:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[30-Dec-2010 22:41:28] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[31-Dec-2010 14:33:53] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>62</b><br /><br />
+Duplicate entry '89.128.200.226-BieGames' for key 1 in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[01-Jan-2011 16:45:30] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User mmoveres_lmdesch already has more than 'max_user_connections' active connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[01-Jan-2011 16:45:36] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[01-Jan-2011 16:45:47] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User mmoveres_lmdesch already has more than 'max_user_connections' active connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[01-Jan-2011 16:45:47] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[01-Jan-2011 16:45:50] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[01-Jan-2011 16:45:50] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[01-Jan-2011 16:45:50] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[01-Jan-2011 16:45:50] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[01-Jan-2011 16:45:50] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[01-Jan-2011 16:45:50] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[01-Jan-2011 16:45:50] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User mmoveres_lmdesch already has more than 'max_user_connections' active connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[01-Jan-2011 16:45:50] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[01-Jan-2011 16:45:50] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[01-Jan-2011 16:45:50] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[01-Jan-2011 16:45:50] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[01-Jan-2011 19:32:40] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User mmoveres_lmdesch already has more than 'max_user_connections' active connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[01-Jan-2011 19:32:40] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[01-Jan-2011 19:32:40] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[01-Jan-2011 19:32:40] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[01-Jan-2011 19:32:40] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[01-Jan-2011 19:32:42] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: User mmoveres_lmdesch already has more than 'max_user_connections' active connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[01-Jan-2011 19:32:42] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[01-Jan-2011 19:32:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[01-Jan-2011 19:32:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[01-Jan-2011 19:32:42] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[02-Jan-2011 06:33:55] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[02-Jan-2011 06:33:55] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[02-Jan-2011 06:33:55] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[02-Jan-2011 06:33:55] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[02-Jan-2011 06:33:55] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[02-Jan-2011 18:13:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[02-Jan-2011 18:13:03] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[02-Jan-2011 18:13:03] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[02-Jan-2011 18:13:03] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[03-Jan-2011 00:17:41] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[03-Jan-2011 00:17:41] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[03-Jan-2011 00:17:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[03-Jan-2011 00:17:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[03-Jan-2011 00:17:41] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[10-Jan-2011 19:01:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[10-Jan-2011 19:01:19] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[10-Jan-2011 19:01:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[10-Jan-2011 19:01:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[10-Jan-2011 19:01:19] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[11-Jan-2011 05:49:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Lost connection to MySQL server at 'reading initial communication packet', system error: 104 in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[11-Jan-2011 05:49:03] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[11-Jan-2011 05:49:03] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[11-Jan-2011 05:49:03] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[11-Jan-2011 05:49:03] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[11-Jan-2011 05:49:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[11-Jan-2011 05:49:11] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[11-Jan-2011 05:49:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[11-Jan-2011 05:49:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[11-Jan-2011 05:49:11] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[11-Jan-2011 05:49:14] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[11-Jan-2011 05:49:14] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[11-Jan-2011 05:49:14] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[11-Jan-2011 05:49:14] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[11-Jan-2011 05:49:14] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[11-Jan-2011 13:45:08] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[11-Jan-2011 13:45:08] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[11-Jan-2011 13:45:08] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[11-Jan-2011 13:45:08] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[11-Jan-2011 13:45:08] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[11-Jan-2011 13:46:15] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[11-Jan-2011 13:46:15] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[11-Jan-2011 13:46:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[11-Jan-2011 13:46:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[11-Jan-2011 13:46:15] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[11-Jan-2011 13:46:28] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[11-Jan-2011 13:46:28] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[11-Jan-2011 13:46:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[11-Jan-2011 13:46:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[11-Jan-2011 13:46:28] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[11-Jan-2011 13:46:33] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[11-Jan-2011 13:46:33] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[11-Jan-2011 13:46:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[11-Jan-2011 13:46:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[11-Jan-2011 13:46:33] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[11-Jan-2011 13:46:34] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[11-Jan-2011 13:46:34] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[11-Jan-2011 13:46:34] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[11-Jan-2011 13:46:34] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[11-Jan-2011 13:46:34] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[14-Jan-2011 06:43:33] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[14-Jan-2011 06:43:33] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[14-Jan-2011 06:43:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[14-Jan-2011 06:43:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[14-Jan-2011 06:43:33] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[14-Jan-2011 06:46:47] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[14-Jan-2011 06:46:47] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[14-Jan-2011 06:46:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[14-Jan-2011 06:46:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[14-Jan-2011 06:46:47] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[19-Jan-2011 07:30:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[19-Jan-2011 07:30:35] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[19-Jan-2011 07:30:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[19-Jan-2011 07:30:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[19-Jan-2011 07:30:35] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 01:40:29] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 01:40:29] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 01:40:29] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 01:40:29] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 01:40:29] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 03:51:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 03:51:19] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 03:51:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 03:51:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 03:51:19] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 03:52:05] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 03:52:05] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 03:52:05] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 03:52:05] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 03:52:05] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 05:20:12] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 05:20:12] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 05:20:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 05:20:12] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 05:20:12] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 05:34:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 05:34:22] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 05:34:22] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 05:34:22] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 05:34:22] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 05:34:28] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 05:34:28] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 05:34:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 05:34:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 05:34:28] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 05:34:29] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 05:34:29] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 05:34:29] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 05:34:29] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 05:34:29] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 05:36:36] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 05:36:36] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 05:36:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 05:36:36] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 05:36:36] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 05:37:46] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 05:37:46] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 05:37:46] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 05:37:46] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 05:37:46] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 05:48:43] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 05:48:43] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 05:48:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 05:48:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 05:48:43] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 05:51:08] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 05:51:08] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 05:51:08] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 05:51:08] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 05:51:08] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 05:51:13] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 05:51:13] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 05:51:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 05:51:13] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 05:51:13] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 06:20:46] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 06:20:46] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 06:20:46] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 06:20:46] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 06:20:46] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 06:21:19] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 06:21:19] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 06:21:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 06:21:19] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 06:21:19] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 06:21:21] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 06:21:21] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 06:21:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 06:21:21] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 06:21:21] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 06:21:33] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 06:21:33] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 06:21:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 06:21:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 06:21:33] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 06:21:34] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 06:21:34] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 06:21:34] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 06:21:34] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 06:21:34] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 06:21:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 06:21:35] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 06:21:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 06:21:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 06:21:35] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 06:21:42] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 06:21:42] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 06:21:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 06:21:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 06:21:42] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 06:21:43] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 06:21:44] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 06:21:44] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 06:21:44] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 06:21:44] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 07:42:34] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 07:42:34] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 07:42:34] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 07:42:34] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 07:42:34] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 07:44:15] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 07:44:15] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 07:44:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 07:44:15] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 07:44:15] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 07:45:29] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 07:45:29] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 07:45:29] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 07:45:29] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 07:45:29] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 07:45:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 07:45:53] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 07:45:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 07:45:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 07:45:53] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 07:46:10] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 07:46:10] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 07:46:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 07:46:10] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 07:46:10] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 07:58:00] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 07:58:00] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 07:58:00] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 07:58:00] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 07:58:00] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 07:59:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 07:59:03] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 07:59:03] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 07:59:03] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 07:59:03] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 07:59:04] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 07:59:04] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 07:59:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 07:59:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 07:59:04] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 07:59:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 07:59:56] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 07:59:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 07:59:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 07:59:56] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 08:05:32] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 08:05:32] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 08:05:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:05:32] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:05:32] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 08:09:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 08:09:11] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 08:09:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:09:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:09:11] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 08:09:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 08:09:11] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 08:09:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:09:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:09:11] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 08:09:41] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 08:09:41] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 08:09:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:09:41] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:09:41] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 08:10:43] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 08:10:43] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 08:10:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:10:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:10:43] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 08:11:03] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 08:11:03] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 08:11:03] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:11:03] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:11:03] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 08:13:42] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 08:13:42] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 08:13:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:13:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:13:42] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 08:13:43] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 08:13:43] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 08:13:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:13:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:13:43] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 08:13:47] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 08:13:47] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 08:13:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:13:47] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:13:47] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 08:13:58] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 08:13:58] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 08:13:58] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:13:58] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:14:05] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 08:22:27] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 08:22:27] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 08:22:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:22:27] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:22:27] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 08:29:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 08:29:56] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 08:29:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:29:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 08:29:56] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 11:47:26] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 11:47:26] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 11:47:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 11:47:26] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 11:47:26] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 11:47:54] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 11:47:54] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 11:47:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 11:47:54] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 11:47:54] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 11:47:56] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 11:47:56] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 11:47:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 11:47:56] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 11:47:56] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 11:47:59] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 11:47:59] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 11:47:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 11:47:59] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 11:47:59] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 11:48:05] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 11:48:05] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 11:48:05] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 11:48:05] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 11:48:05] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 15:48:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 15:48:25] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 15:48:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 15:48:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 15:48:25] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 23:58:22] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 23:58:22] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 23:58:22] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 23:58:22] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 23:58:22] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 23:58:35] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 23:58:35] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 23:58:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 23:58:35] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 23:58:35] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[20-Jan-2011 23:58:44] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[20-Jan-2011 23:58:44] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[20-Jan-2011 23:58:44] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 23:58:44] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[20-Jan-2011 23:58:44] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[21-Jan-2011 07:27:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[21-Jan-2011 07:27:45] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[21-Jan-2011 07:27:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 07:27:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 07:27:45] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[21-Jan-2011 08:32:01] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[21-Jan-2011 08:32:01] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[21-Jan-2011 08:32:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 08:32:01] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 08:32:01] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[21-Jan-2011 08:32:11] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[21-Jan-2011 08:32:11] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[21-Jan-2011 08:32:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 08:32:11] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 08:32:11] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[21-Jan-2011 08:49:05] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[21-Jan-2011 08:49:05] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[21-Jan-2011 08:49:05] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 08:49:05] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 08:49:05] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[21-Jan-2011 09:03:33] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[21-Jan-2011 09:03:33] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[21-Jan-2011 09:03:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 09:03:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 09:03:33] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[21-Jan-2011 13:24:40] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[21-Jan-2011 13:24:40] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[21-Jan-2011 13:24:40] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 13:24:40] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 13:24:40] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[21-Jan-2011 13:25:53] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[21-Jan-2011 13:25:53] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[21-Jan-2011 13:25:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 13:25:53] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 13:25:53] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[21-Jan-2011 15:13:18] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[21-Jan-2011 15:13:18] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[21-Jan-2011 15:13:18] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 15:13:18] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 15:13:18] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[21-Jan-2011 15:13:39] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[21-Jan-2011 15:13:39] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[21-Jan-2011 15:13:39] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 15:13:39] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 15:13:39] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[21-Jan-2011 15:14:43] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[21-Jan-2011 15:14:43] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[21-Jan-2011 15:14:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 15:14:43] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 15:14:43] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[21-Jan-2011 15:14:49] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[21-Jan-2011 15:14:49] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[21-Jan-2011 15:14:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 15:14:49] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 15:14:49] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[21-Jan-2011 15:20:06] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[21-Jan-2011 15:20:06] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[21-Jan-2011 15:20:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 15:20:06] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[21-Jan-2011 15:20:06] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[22-Jan-2011 04:42:45] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[22-Jan-2011 04:42:45] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[22-Jan-2011 04:42:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[22-Jan-2011 04:42:45] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[22-Jan-2011 04:42:45] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[22-Jan-2011 10:07:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[22-Jan-2011 10:07:17] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[22-Jan-2011 10:07:17] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[22-Jan-2011 10:07:17] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[22-Jan-2011 10:07:17] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[22-Jan-2011 10:07:17] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[22-Jan-2011 10:07:17] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[22-Jan-2011 10:07:17] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[22-Jan-2011 10:07:17] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[22-Jan-2011 10:07:17] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[22-Jan-2011 15:05:54] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[22-Jan-2011 15:05:55] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[22-Jan-2011 15:05:55] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[22-Jan-2011 15:05:55] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[22-Jan-2011 15:05:55] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[22-Jan-2011 18:40:33] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[22-Jan-2011 18:40:33] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[22-Jan-2011 18:40:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[22-Jan-2011 18:40:33] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[22-Jan-2011 18:40:33] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[23-Jan-2011 12:04:55] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[23-Jan-2011 12:04:55] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[23-Jan-2011 12:04:55] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[23-Jan-2011 12:04:55] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[23-Jan-2011 12:04:55] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[24-Jan-2011 16:42:25] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[24-Jan-2011 16:42:25] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[24-Jan-2011 16:42:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[24-Jan-2011 16:42:25] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[24-Jan-2011 16:42:25] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[25-Jan-2011 05:40:42] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[25-Jan-2011 05:40:42] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[25-Jan-2011 05:40:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[25-Jan-2011 05:40:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[25-Jan-2011 05:40:42] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[25-Jan-2011 08:05:23] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[25-Jan-2011 08:05:23] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[25-Jan-2011 08:05:23] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[25-Jan-2011 08:05:23] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[25-Jan-2011 08:05:23] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/index.php</b>&quot; on line <b>44</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[25-Jan-2011 08:05:24] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[25-Jan-2011 08:05:24] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[25-Jan-2011 08:05:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[25-Jan-2011 08:05:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[25-Jan-2011 08:05:24] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/index.php</b>&quot; on line <b>44</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[25-Jan-2011 12:21:42] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[25-Jan-2011 12:21:42] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[25-Jan-2011 12:21:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[25-Jan-2011 12:21:42] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[25-Jan-2011 12:21:42] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[25-Jan-2011 17:06:28] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[25-Jan-2011 17:06:28] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[25-Jan-2011 17:06:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[25-Jan-2011 17:06:28] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[25-Jan-2011 17:06:28] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[26-Jan-2011 13:09:27] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>62</b><br /><br />
+Duplicate entry '174.142.104.57-byege' for key 1 in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[26-Jan-2011 13:09:27] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>62</b><br /><br />
+Duplicate entry '174.142.104.57-byege' for key 1 in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[26-Jan-2011 13:09:27] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>62</b><br /><br />
+Duplicate entry '174.142.104.57-byege' for key 1 in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[26-Jan-2011 13:09:27] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>62</b><br /><br />
+Duplicate entry '174.142.104.57-byege' for key 1 in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[26-Jan-2011 13:09:27] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>62</b><br /><br />
+Duplicate entry '174.142.104.57-byege' for key 1 in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
+[26-Jan-2011 14:20:04] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Too many connections in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 32
+[26-Jan-2011 14:20:04] PHP Warning:  mysql_select_db(): supplied argument is not a valid MySQL-Link resource in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 33
+[26-Jan-2011 14:20:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'mmoveres'@'localhost' (using password: NO) in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[26-Jan-2011 14:20:04] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 47
+[26-Jan-2011 14:20:04] PHP Fatal error:  Database error in &quot;<b>/home/mmoveres/public_html/votaciones/button.php</b>&quot; on line <b>36</b><br /><br />
+ in /home/mmoveres/public_html/votaciones/sources/sql/mysql.php on line 88
